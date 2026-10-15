@@ -27,5 +27,17 @@ Unlike traditional static portfolios, this project acts as a functional system-l
 ## 📐 Architecture Overview
 The application separates system processing from the presentation layer. The background controller handles system-level API queries and state metrics, while the frontend dashboard manages responsive data updates and user interface rendering. 🔄
 
+📂 Where to Find Everything
+
+All project files are in the Releases section, not in the file list on this page.
+
+Click Releases on the right side of this repository page.
+Open the latest release (v1.1.0).
+Scroll down to Assets. Every file is listed there and can be downloaded:
+
+🔗 Links
+GitHub profile: https://github.com/bigdream-au
+SkillForge: https://github.com/bigdream-au/skillforge
+
 ---
 Licensed under the MIT License. ⚖️
